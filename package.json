@@ -1,7 +1,7 @@
 {
-  "name": "react-app-starter",
+  "name": "react-todo-app",
   "version": "1.0.0",
-  "description": "react app starter",
+  "description": "react todo app",
   "main": "index.js",
   "scripts": {
     "build": "cross-env NODE_ENV=development webpack --config webpack.config.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ibetch/react-app-starter.git"
+    "url": "git+https://github.com/ibetch/react-todo-app.git"
   },
   "author": "Khristine Tugangui",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ibetch/react-app-starter/issues"
+    "url": "https://github.com/ibetch/react-todo-app/issues"
   },
-  "homepage": "https://github.com/ibetch/react-app-starter#readme",
+  "homepage": "https://github.com/ibetch/react-todo-app#readme",
   "devDependencies": {
     "@babel/core": "^7.5.5",
     "@babel/node": "^7.5.5",
